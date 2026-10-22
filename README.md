@@ -2,7 +2,8 @@
 
 **Knight et al. (2026).** *Species-specific WNT response shapes somite morphogenesis in mammalian embryo models.*
 Integration and annotation of pig embryonic single-cell RNA-seq datasets (GEO: GSE236766, GSE206914).
-Run scripts 1–7 in order in a single R session
+
+Run scripts 1–7 in order in a single R session.
 
 ## Scripts
 
