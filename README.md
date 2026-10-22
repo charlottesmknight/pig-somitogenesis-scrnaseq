@@ -41,8 +41,8 @@ Run scripts 1–7 in order in a single R session.
 - Generates the Figure 1 and Supplementary Figure 1 panels: UMAPs (cell type, dataset, embryonic day), marker feature plots, signalling module dotplot, marker heatmap and ridgeline plots.
 
 ## Data availability
-- Pig gastrulation atlas (Simpson et al., 2024): GEO [GSE236766]
-- Pig myogenesis dataset (Cai et al., 2023): GEO [GSE206914]
+- Pig gastrulation atlas (Simpson et al., 2024): GEO (GSE236766)
+- Pig myogenesis dataset (Cai et al., 2023): GEO (GSE206914)
 - Mouse gastrulation atlas (Pijuan-Sala et al., 2019): ArrayExpress E-MTAB-6967.
 - Input objects (`Pig_atlas_Simpson_2024.RDS`, `Myo_data_Cai_2023.RDS`) and processed objects (`datasets.integrated.new.annotated.rds`, `atlas.subset.final.v2.rds`): Zenodo [DOI].
 
